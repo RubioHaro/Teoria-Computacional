@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.8.7)  11 AUG 2019 01:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.8.7)  11 AUG 2019 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -181,7 +181,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
-[3] (/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+
+ []
+
+[4] (/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
@@ -194,10 +219,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  27i,5n,31p,776b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf" (3 pages, 59099 bytes).
+Output written on "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf" (4 pages, 61966 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

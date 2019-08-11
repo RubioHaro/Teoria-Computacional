@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1565503853 "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.tex" "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf" "premios turing" 1565503853
-  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux" 1565503853 112 e1f9d66d8ef9afcbeb5c456c0a391ffb ""
-  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.tex" 1565503853 5349 fc62f8447a867e4d3d76460808a04ec0 ""
+["pdflatex"] 1565550335 "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.tex" "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf" "premios turing" 1565550336
+  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux" 1565550336 112 e1f9d66d8ef9afcbeb5c456c0a391ffb ""
+  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.tex" 1565550335 7484 83cb7d5ba50b6f0fdbba346403611739 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1557554374 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm" 1557554374 1116 4e6ba9d7914baa6482fd69f67d126380 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1557554374 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -28,11 +28,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1565193750 334148 1b9d30ff8c861d6082e3e9bfccd8d7eb ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1565193749 7979415 7c727394e0b03e3bd5d9fa0f7ee9c734 ""
-  "premios turing.aux" 1565503853 112 e1f9d66d8ef9afcbeb5c456c0a391ffb "pdflatex"
-  "premios turing.tex" 1565503853 5349 fc62f8447a867e4d3d76460808a04ec0 ""
+  "premios turing.aux" 1565550336 112 e1f9d66d8ef9afcbeb5c456c0a391ffb "pdflatex"
+  "premios turing.tex" 1565550335 7484 83cb7d5ba50b6f0fdbba346403611739 ""
   (generated)
-  "premios turing.aux"
-  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf"
-  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.log"
   "premios turing.pdf"
+  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.log"
+  "premios turing.aux"
   "premios turing.log"
+  "/home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf"
