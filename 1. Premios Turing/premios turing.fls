@@ -1,8 +1,8 @@
-PWD /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing
+PWD /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.tex
-OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.log
+INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.tex
+OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/size11.clo
@@ -26,9 +26,9 @@ INPUT /usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 INPUT /usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.aux
-INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.aux
-OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.aux
+INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
+INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
+OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -37,9 +37,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.pdf
+OUTPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/premios turing.aux
+INPUT /home/rodrigo_rubio/Documentos/Teoria Computacional/Premios Turing/1. Premios Turing/premios turing.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
